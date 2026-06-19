@@ -76,6 +76,10 @@ Added label:
 release: monitoring
 ```
 
+## Demo Video
+
+[Watch the demo video](https://drive.google.com/file/d/1zp81Y_4TeocHgm64U6ceP8Zqb5FctOts/view?usp=sharing)
+
 ## Verification
 
 Prometheus Targets:
